@@ -1,0 +1,62 @@
+{
+    "nombre": "Tienda Virtual",
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Reloj Curren",
+        "precio": 250.00,
+        "disponibilidad": true,
+        "imagen": "https://kronotime.com/cdn/shop/products/3750005330264_f52647f4-3aab-491e-9b5a-baf875da3882_530x@2x.jpg?v=1624905669"
+      },
+      {
+        "id": 2,
+        "nombre": "Bolso Velez",
+        "precio": 80.50,
+        "disponibilidad": true,
+        "imagen": "https://cuerosvelezco.vtexassets.com/arquivos/ids/255890/1015807-02-01-Morral-de-cuero.jpg?v=638308186977400000"
+      },
+      {
+        "id": 3,
+        "nombre": "Billetera velez",
+        "precio": 120.00,
+        "disponibilidad": true,
+        "imagen": "https://libauge.com.co/wp-content/uploads/2024/07/451914.png"
+      },
+      {
+        "id": 9,
+        "nombre": "Reloj deportivo",
+        "precio": 150.00,
+        "disponibilidad": true,
+        "imagen": "https://m.media-amazon.com/images/I/61mmwLzic5L.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Mochila Monastery",
+        "precio": 70.00,
+        "disponibilidad": false,
+        "imagen": "https://monasterycouture.com.co/cdn/shop/files/GALWEY1.jpg?v=1717193859"
+      },
+      {
+        "id": 11,
+        "nombre": "Gorra Monastery",
+        "precio": 40.00,
+        "disponibilidad": true,
+        "imagen": "https://monasterycouture.com.co/cdn/shop/files/CAP_HELIO_BLACK_FRENTE_1a80d1ad-d5b5-4689-866f-443873f137b2.jpg?v=1722447576"
+      },
+      {
+        "id": 13,
+        "nombre": "Gorra deportiva",
+        "precio": 15.00,
+        "disponibilidad": true,
+        "imagen": "https://cuerosvelezco.vtexassets.com/arquivos/ids/278786/1023854-11-01-Ri%C3%B1onera-de-cuero.jpg?v=638581373022130000"
+      },
+      {
+        "id": 15,
+        "nombre": "Riñonera velez",
+        "precio": 25.00,
+        "disponibilidad": true,
+        "imagen": "https://cuerosvelezco.vtexassets.com/arquivos/ids/247224/1022679-02-01-Ri%C3%B1onera-de-cuero.jpg?v=638126785708900000"
+      }
+    ]
+  } 
+  
